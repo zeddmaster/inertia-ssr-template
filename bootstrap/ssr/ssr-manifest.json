@@ -1,0 +1,18 @@
+{
+  "\u0000plugin-vue:export-helper": [
+  ],
+  "resources/js/Inertia/Components/Layouts/Layout.vue": [
+  ],
+  "resources/js/Inertia/Pages/Welcome.vue": [
+  ],
+  "resources/js/Inertia/ssr.js": [
+  ],
+  "resources/js/Utils/Router/Router.js": [
+  ],
+  "resources/js/Utils/Router/index.js": [
+  ],
+  "vendor/tightenco/ziggy/src/js/Route.js": [
+  ],
+  "vendor/tightenco/ziggy/src/js/Router.js": [
+  ]
+}
